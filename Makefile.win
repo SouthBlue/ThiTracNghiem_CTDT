@@ -1,0 +1,43 @@
+# Project: ThiTracNghiem
+# Makefile created by Dev-C++ 5.11
+
+CPP      = g++.exe -D__DEBUG__
+CC       = gcc.exe -D__DEBUG__
+WINDRES  = windres.exe
+OBJ      = main.o hienthi.o mylib.o danhsach.o nhapxuat.o chucnang.o
+LINKOBJ  = main.o hienthi.o mylib.o danhsach.o nhapxuat.o chucnang.o
+LIBS     = -L"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -static-libgcc -g3
+INCS     = -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include"
+CXXINCS  = -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++"
+BIN      = ThiTracNghiem.exe
+CXXFLAGS = $(CXXINCS) -g3 -std=c++11
+CFLAGS   = $(INCS) -g3 -std=c++11
+RM       = rm.exe -f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before $(BIN) all-after
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CPP) $(LINKOBJ) -o $(BIN) $(LIBS)
+
+main.o: main.cpp
+	$(CPP) -c main.cpp -o main.o $(CXXFLAGS)
+
+hienthi.o: hienthi.cpp
+	$(CPP) -c hienthi.cpp -o hienthi.o $(CXXFLAGS)
+
+mylib.o: mylib.cpp
+	$(CPP) -c mylib.cpp -o mylib.o $(CXXFLAGS)
+
+danhsach.o: danhsach.cpp
+	$(CPP) -c danhsach.cpp -o danhsach.o $(CXXFLAGS)
+
+nhapxuat.o: nhapxuat.cpp
+	$(CPP) -c nhapxuat.cpp -o nhapxuat.o $(CXXFLAGS)
+
+chucnang.o: chucnang.cpp
+	$(CPP) -c chucnang.cpp -o chucnang.o $(CXXFLAGS)

@@ -1,0 +1,403 @@
+67
+BAS1102@
+1 Thoi gian thuc dan Phap tien hanh khai thac thuoc dia lan thu I o Viet Nam?@
+1858-1884@
+1884-1896@
+1896-1913@
+1914-1918@ 3
+BAS1102@
+2 Bao Doi song cong nhan la cua to chuc nao?@
+Dang xa hoi Phap@
+Dang cong san Phap@
+Tong Lien doan Lao dong Phap@
+Hoi Lien hiep thuoc dia@ 3
+BAS1102@
+3 Nguyen Ai Quoc tu Lien Xo ve Trung Quoc vao thoi gian nao?@
+12/1924@
+12/1925@
+11/1924@
+10/1924@ 1
+BAS1102@
+4 Khoi nghia Yen Bai no ra vao thoi gian nao?@
+9-2-1930@
+9-3-1930@
+3-2-1930@
+9-3-1931@ 1
+BAS1102@
+5 Viet Nam Quoc dan dang duoc thanh lap vao thoi gian nao?@
+12/1927@
+11/1926@
+08/1925@
+07/1925@ 1
+BAS1102@
+6 To chuc cong san nao ra doi dau tien o Viet Nam?@
+Hoi Viet Nam cach mang thanh nien@
+Dong Duong cong san Dang@
+An Nam cong san Dang@
+Dong Duong cong san lien doan@ 2
+BAS1102@
+7 Ten cua luc luong vu trang duoc thanh lap o Nghe Tinh trong cao trao cach mang nam 1930 la gi?@
+Du kich@
+Tu ve@
+Tu ve do@
+Tu ve chien dau@ 3
+BAS1102@
+8 Luan cuong Chinh tri do dong chi Tran Phu khoi thao ra doi vao thoi gian nao?@
+02-1930@
+10-1930@
+09-1930@
+08-1930@ 2
+BAS1102@
+9 Duoc su chi dao cua Quoc te Cong san, ban lanh dao cua Dang o nuoc ngoai do ai dung dau?@
+Ha Huy Tap@
+Nguyen Van Cu@
+Truong Chinh@
+Le Hong Phong@ 4
+BAS1102@
+10 Chien tranh the gioi II bung no vao thoi gian nao?@
+1937@
+1938@
+1939@
+1940@ 3
+BAS1102@
+11 Hoi nghi trung uong 6 hop tai dau?@
+Tan Trao(Tuyen Quang)@
+Ba Diem(Gia Dinh)@
+Dinh Bang(Bac Ninh)@
+Thai Nguyen@ 2
+BAS1102@
+12 Hoi nghi BCH TW dang 5/1941 hop o dau? do ai chu tri?@
+Cao Bang, Nguyen Ai Quoc@
+Cao Bang, Truong Chinh@
+Bac Can, Truong Chinh@
+Tuyen Quang, Nguyen Ai Quoc@ 1
+BAS1102@
+13 Doi Viet Nam tuyen truyen giai phong quan luc dau thanh lap co bao nhieu chien si?@
+33@
+34@
+35@
+36@ 2
+BAS1102@
+14 Viet Nam Giai phong quan duoc thanh lap vao thoi gian nao?@
+09-1940@
+12-1941@
+12-1944@
+04-1945@ 4
+BAS1102@
+15 Chien khu Hoa-Ninh-Thanh con co ten la gi?@
+Tran Hung Dao@
+Hoang Hoa Tham@
+Le Loi@
+Quang Trung@ 4
+BAS1102@
+16 Chien khu cach mang nao duoc goi la De tu chien khu?@
+Tran Hung Dao@
+Hoang Hoa Tham@
+Le Loi@
+Quang Trung@ 1
+BAS1102@
+17 Tinh hinh dat nuoc ta sau cach mang thang 8 duoc vi nhu hinh anh gi?@
+Nuoc soi lua nong@
+Nuoc soi lua bong@
+Ngan can treo soi toc@
+Trung nuoc@ 3
+BAS1102@
+18 Nhung kho khan thach thuc cua Viet Nam sau cach mang thang 8?@
+Cac the luc phan dong, de quoc bao vay chong pha@
+Kinh te kiet que, nan doi hoanh hanh@
+Hon 90% dan so khong biet chu@
+Tat ca cac phuong an tren@ 4
+BAS1102@
+19 Ha Noi duoc xac dinh la thu do cua Viet Nam vao nam nao?@
+1945@
+1946@
+1954@
+1930@ 2
+BAS1102@
+20 Hien phap dau tien cua nuoc Viet Nam dan chu cong hoa duoc thong qua vao thoi gian nao?@
+09/11/1945@
+10/10/1946@
+09/11/1946@
+09/11/1947@ 3
+BAS1102@
+21 Quoc hoi dau tien cua nuoc Viet Nam dan chu cong hoa duoc bau khi nao?@
+04/01/1946@
+05/01/1946@
+06/01/1946@
+07/01/1946@ 3
+BAS1102@
+67 Ai la Tong Bi Thu dau tien cua Dang?@
+Ho Chi Minh@
+Tran Van Cung@
+Tran Phu@
+Le Hong Phong@ 3
+BAS1143@
+22 marthar is wearing ... beautiful black dress her uncle bought her.@
+any@
+an@
+some@
+the@ 4
+BAS1143@
+23 he was found guilty ... possessing illegal drugs@
+with@
+in@
+from@
+of@ 4
+BAS1143@
+24 There was so ... on the highway that we couldn't even go half the speed limit.@
+much traffics@
+much traffic@
+many traffic@
+many traffics@ 2
+BAS1143@
+25 We stayed ... all night@
+wake@
+waken@
+to wake@
+awake@ 4
+BAS1143@
+26 I have just finished ... assignment@
+a thirty pages@
+thirty-page@
+thirty pages@
+a thirty-page@ 4
+BAS1143@
+27 Of all the cars displayed here, this one uses the ... gas.@
+few@
+fewer@
+less@
+least@ 4
+BAS1143@
+28 my uncle works as a cook ... prison, but my aunt wants him to work as a chef in a   hotel.@
+in@
+in a@
+in the@
+in some@ 2
+BAS1143@
+29 There were too ... problems for us to solve in a day.@
+many@
+little@
+much@
+small@ 1
+BAS1143@
+30 A large ... of sewage was dumped into the river.@
+lot@
+number@
+amount@
+plenty@ 3
+BAS1143@
+31 some metals are magnetic and ... aren't@
+other@
+another@
+others@
+others metals@ 3
+BAS1143@
+32 he seems to have cut ... shaving this moring.@
+him@
+himselft@
+his@
+he@ 2
+BAS1143@
+33 his wife is said to do a supermarket@
+bring@
+run@
+shop@
+do@ 4
+BAS1143@
+34 some people don't mind paying ... price to get quality products.@
+the double@
+double the@
+as double as@
+as the double@ 2
+BAS1143@
+35 Could i borrow ... pen so that i can finish the test?@
+the@
+a@
+some@
+an@ 2
+BAS1143@
+36 When i saw her last night, she was talking to ... loudly.@
+themselves@
+hers@
+herself@
+she@ 3
+BAS1143@
+37 At the exposition, there was a large collection of various ... that drew the public's interest@
+machineries@
+machine@
+mechanical@
+machines@ 4
+BAS1143@
+38 what is the most important in your whole life?@
+money.@
+animal@
+dreams@
+motivation@ 4
+BAS1143@
+39 Despite its importance, only ... people attended the general meeting.@
+few@
+little@
+a few@
+a little@ 3
+BAS1143@
+40 Let's wait for ... ten minutes@
+more@
+another@
+an amount of@
+every@ 2
+BAS1143@
+41 As far as i know, he doesn't have ... friends.@
+much@
+many@
+quite a little@
+another@ 2
+BAS1143@
+42 sorry to say, ... book contains anything that you've been looking for.@
+much@
+many@
+either@
+neither@ 4
+BAS1143@
+43 ... parties were satisfied with the contract terms.@
+Either@
+One@
+Both@
+Any@ 3
+BAS1143@
+44 The couple bought ... before they got married@
+a lot of furnitures@
+a lot of furniture@
+many furniture@
+many furnitures@ 2
+BAS1143@
+45 Let's be ... and accept his offer@
+really@
+realism@
+realistic@
+realized@ 3
+INT1336@
+46 Thiet bi nao hoat dong o tang physical?@
+Switch@
+Card mang@
+HUB@
+Router@ 2
+INT1336@
+47 Dia chi IP 192.168.1.1:@
+Thuoc lop B@
+Thuoc lop C@
+La dia chi rieng@
+B va C dung@ 4
+INT1336@
+48 Tang nao trong mo hinh OSI lam viec voi cac tin hieu dien:@
+Data link@
+Network@
+Physical@
+Transport@ 3
+INT1336@
+49 Giao thuc nao thuoc tang Application:@
+IP@
+HTTP@
+NFS@
+TCP@ 2
+INT1336@
+50 Cac thanh phan tao nen mang la?@
+May tinh, hub, switch@
+Network adapter, cable@
+Protocol@
+Tat cac deu dung@ 4
+INT1336@
+51 Protocol la gi?@
+TCP/IP@
+Netbeui@
+IPX/SPX@
+Tat ca@ 4
+INT1336@
+52 Co bao nhieu vung cap do trong mot mang dung 1 Repeater va 1 hub?@
+1@
+2@
+3@
+4@ 1
+INT1336@
+53 Thiet bi nao sau day su dung tai mang hinh sao:@
+Switch@
+Brigde@
+Port@
+Repeater@ 1
+INT1336@
+54 Giao thuc nao trong cac giao thuc sau dung trong mo hinh mang LAN:@
+TCP/IP@
+IPX/SPX@
+NETBEUI@
+Tat ca@ 4
+INT1336@
+55 Kien truc mot mang LAN co the la:@
+RING@
+BUS@
+STAR@
+Co the phoi hop ca 3@ 4
+INT1336@
+56 Gia tri cua 11101101 o co so 2 trong co so 16 la:@
+CB@
+ED@
+CF@
+EC@ 2
+INT1336@
+57 Mo ta nao sau day la cho mang hinh sao:@
+Truyen du lieu qua cap dong truc@
+Moi nut mang deu ket noi truc tiep voi cac nut khac@
+Co mot nut trung tam va cac nut khac ket noi den@
+Cac nut mang su dung chung mot duong cap@ 3
+INT1336@
+58 Loai cac nao duoc su dung pho bien nhat hien nay:@
+Cap dong truc@
+Cap STP@
+Cap UTP(CAT 5)@
+Cap quang@ 3
+INT1336@
+59 Dia chi nao sau day thuoc lop A:@
+172.29.14.10@
+10.1.1.1@
+140.8.8.8@
+203.5.6.7@ 2
+INT1336@
+60 Modem dung de:@
+Giao tiep voi mang@
+Truyen du lieu di xa@
+Truyen du lieu trong mang LAN@
+A va B@ 4
+INT1336@
+61 Chuc nang chinh cua router la:@
+Ket noi LAN voi LAN@
+Chia nho Broadcast domain@
+Tat ca deu dung@
+Tat ca deu sai@ 4
+INT1336@
+62 Don vi du lieu o tang presentation la:@
+Byte@
+Data@
+Frame@
+Packet@ 3
+INT1336@
+63 Protocol nao duoc su dung cho internet?@
+TCP/IP@
+Netbeui@
+IPX/SPX@
+DLC@ 1
+INT1336@
+64 De ket noi hai may tinh voi nhau ta co the su dung?@
+Hub@
+Switch@
+Noi cap truc tiep@
+Tat ca deu dung@ 4
+INT1336@
+65 Cong nghe mang LAN duoc su dung pho bien hien nay la?@
+Token ring@
+FDDI@
+Ethernet@
+ADSL@ 3
+INT1336@
+66 Frame la du lieu o tang?@
+Physical@
+Network@
+Data Link@
+Transport@ 3
